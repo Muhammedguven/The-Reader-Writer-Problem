@@ -9,4 +9,4 @@ Obviously, if two readers access the shared data simultaneously, no adverse effe
 <p>o No writer may perform write function until all readers have finished reading</p>
 
 <h3> OUTPUT </h3>
-<img src= "output.png" width="240" height="350">
+<img src= "output.PNG" width="240" height="350">
